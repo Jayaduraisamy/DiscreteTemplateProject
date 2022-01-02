@@ -8,8 +8,6 @@ Library           SeleniumLibrary
 ${LOGINURL}     http://localhost:8080/FTPCApps
 ${BROWSER}      Chrome
 ${UserName}     admin
-
-${Password}     admin
 ${Password}     admin
 
 
