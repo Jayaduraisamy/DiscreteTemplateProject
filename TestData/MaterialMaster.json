@@ -1,0 +1,23 @@
+{
+   "d":{
+      "results":{
+         "date":"20210205",
+         "flag":"",
+         "specialProcurementKey":"",
+         "materialType":"HALB",
+         "materialDeletionFlag":"",
+         "revision":"",
+         "materialDescription":"GENERAL ASSEMBLY MAJOR SUB ASSEMBLIES",
+         "materialNumber":"M17-004493-AD",
+         "serialNumProfileFlag":"",
+         "baseUnitOfMeasure":"EA",
+         "materialGroup":"L003",
+         "plant":"US02",
+         "batchManagement":"",
+         "time":"110817",
+         "totalShelfLife":"  0",
+         "procurementType":"X"
+		 		 
+      }
+   }
+}

@@ -25,6 +25,7 @@ invalid login validation
     set browser implicit wait  10
     clear element text  Xpath://*[@id="CD-TextField.LogonView.UserName"]
     clear element text  Xpath://*[@id="CD-PasswordField.LogonView.Password"]
+    close browser
     #press keys  ${UserName}  ${password} CTRL+a+BACKSPACE
 
 
